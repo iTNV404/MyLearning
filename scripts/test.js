@@ -1,3 +1,4 @@
 // @ts-check
-"use strict"
-alert('Hello, World!');
+'use strict'
+// alert('Hello, world!')
+// let result = prompt('PASSWORD', 'TEXT');
